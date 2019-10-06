@@ -1,2 +1,4 @@
 # Don't include Node modules
 node_modules
+
+keys.js
