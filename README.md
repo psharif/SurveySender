@@ -1,2 +1,3 @@
 # SurveySender
-Node, Express, and React Application that uses Google Auth to send Surveys for companies. 
+
+Node and Express Server app that uses Google Auth to send Surveys for companies.
